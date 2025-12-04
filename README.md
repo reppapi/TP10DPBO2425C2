@@ -1,4 +1,8 @@
+# TP10DPBO2425C2
+
 # Janji
+
+Saya **Repa Pitriani** dengan NIM **2402499** mengerjakan Tugas Praktikum 10 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Sistem Manajemen Rental Mobil Berbasis Arsitektur MVVM
 
@@ -96,7 +100,7 @@ Terdapat relasi *One-to-Many* antara Jenis dan Mobil, serta relasi *Many-to-Many
 
 Susunan folder dan file dalam proyek ini adalah sebagai berikut:
 
-```text
+```
 /project
 ├── config/
 │   └── Database.php          # Konfigurasi koneksi database (PDO)
@@ -129,3 +133,6 @@ Susunan folder dan file dalam proyek ini adalah sebagai berikut:
 
 ## Dokumentasi
 
+Klik thumbnail di bawah untuk menonton demo program:  
+
+[![Demo Program](https://img.youtube.com/vi/hq6BUdu09t4/0.jpg)](https://youtu.be/2lXwqahURY0)
