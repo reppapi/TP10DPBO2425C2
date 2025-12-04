@@ -103,23 +103,23 @@ Susunan folder dan file dalam proyek ini adalah sebagai berikut:
 ```
 /project
 ├── config/
-│   └── Database.php          # Konfigurasi koneksi database (PDO)
+│   └── Database.php          
 ├── database/
-│   └── rental_mobil.sql      # File import database MySQL
-├── models/                   # Lapisan Data Access
+│   └── rental_mobil.sql     
+├── models/                  
 │   ├── Jenis.php
 │   ├── Mobil.php
 │   ├── Penyewa.php
 │   └── Transaksi.php
-├── viewmodels/               # Lapisan Logika Bisnis
+├── viewmodels/              
 │   ├── JenisViewModel.php
 │   ├── MobilViewModel.php
 │   ├── PenyewaViewModel.php
 │   └── TransaksiViewModel.php
-├── views/                    # Lapisan Antarmuka Pengguna
+├── views/                   
 │   ├── template/
-│   │   ├── header.php        # Template navigasi atas
-│   │   └── footer.php        # Template bagian bawah
+│   │   ├── header.php       
+│   │   └── footer.php       
 │   ├── jenis_list.php
 │   ├── jenis_form.php
 │   ├── mobil_list.php
@@ -128,7 +128,7 @@ Susunan folder dan file dalam proyek ini adalah sebagai berikut:
 │   ├── penyewa_form.php
 │   ├── transaksi_list.php
 │   └── transaksi_form.php
-└── index.php                 # Entry Point & Routing System
+└── index.php                
 ```
 
 ## Dokumentasi
