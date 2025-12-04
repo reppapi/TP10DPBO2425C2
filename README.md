@@ -135,4 +135,4 @@ Susunan folder dan file dalam proyek ini adalah sebagai berikut:
 
 Klik thumbnail di bawah untuk menonton demo program:  
 
-[![Demo Program](https://img.youtube.com/vi/hq6BUdu09t4/0.jpg)](https://youtu.be/2lXwqahURY0)
+[![Demo Program](https://img.youtube.com/vi/2lXwqahURY0/0.jpg)](https://youtu.be/2lXwqahURY0)
